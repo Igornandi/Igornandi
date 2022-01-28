@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/igor_nandi)
 
 ## About me:
-I'm an 18 year old developer, programming since I was 16.
+I'm an 17 year old developer, programming since I was 16.
 
 
 ## My specialties:
