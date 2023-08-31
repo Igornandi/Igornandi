@@ -1,6 +1,5 @@
 # Hi, I'm Igor Moreira Nandi!
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Igornandi)](https://github.com/Igornandi)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-moreira-nandi-0a258a20b/)](https://www.linkedin.com/in/igor-moreira-nandi-0a258a20b/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igornandii/)
 
