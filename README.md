@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igornandii/)
 
 ## About me:
-I'm an 19 year old developer, programming since I was 16.
+I'm an 20 year old developer, programming since I was 16.
 
 
 ## My specialties:
